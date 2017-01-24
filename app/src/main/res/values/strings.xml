@@ -3,6 +3,8 @@
     <string name="amount_of_time">00:00:00</string>
     <string name="start_button">START</string>
     <string name="stop_button">STOP</string>
+    <string name="reset_button">RESET TIME</string>
+    <string name="reset_message">TIMER NOT FINISHED. PLEASE HIT RESET TO INPUT NEW TIME.</string>
     <string name="complete">FINISHED!</string>
     <string name="input_hint">Input Number of Seconds</string>
 </resources>
